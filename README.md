@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Front-end autodidata.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabsfredes&label=Profile%20views&color=0e75b6&style=flat" alt="gabsfredes" /> </p>
 
-- 🌱Sempre em busca de aperfeiçoar meus conhecimentos. **Aprender novas linaugagens, novos frameworks e ferramentas**
+- 🌱Sempre em busca de aperfeiçoar meus conhecimentos. **Aprender novas linguagens, novos frameworks e ferramentas**
 
 - 📫 Entre em contato comigo **gabriel.sfredes@gmail.com**
 
